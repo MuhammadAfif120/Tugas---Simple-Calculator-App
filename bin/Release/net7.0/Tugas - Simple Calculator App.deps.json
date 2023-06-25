@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Tugas - Simple Calculator App/1.0.0": {
+        "runtime": {
+          "Tugas - Simple Calculator App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tugas - Simple Calculator App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

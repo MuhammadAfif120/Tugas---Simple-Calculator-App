@@ -1,0 +1,15 @@
+E:\C#\Skilvul - Tugas\Tugas - Simple Calculator App\bin\Release\net7.0\Tugas - Simple Calculator App.exe
+E:\C#\Skilvul - Tugas\Tugas - Simple Calculator App\bin\Release\net7.0\Tugas - Simple Calculator App.deps.json
+E:\C#\Skilvul - Tugas\Tugas - Simple Calculator App\bin\Release\net7.0\Tugas - Simple Calculator App.runtimeconfig.json
+E:\C#\Skilvul - Tugas\Tugas - Simple Calculator App\bin\Release\net7.0\Tugas - Simple Calculator App.dll
+E:\C#\Skilvul - Tugas\Tugas - Simple Calculator App\bin\Release\net7.0\Tugas - Simple Calculator App.pdb
+E:\C#\Skilvul - Tugas\Tugas - Simple Calculator App\obj\Release\net7.0\Tugas - Simple Calculator App.csproj.AssemblyReference.cache
+E:\C#\Skilvul - Tugas\Tugas - Simple Calculator App\obj\Release\net7.0\Tugas - Simple Calculator App.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Skilvul - Tugas\Tugas - Simple Calculator App\obj\Release\net7.0\Tugas - Simple Calculator App.AssemblyInfoInputs.cache
+E:\C#\Skilvul - Tugas\Tugas - Simple Calculator App\obj\Release\net7.0\Tugas - Simple Calculator App.AssemblyInfo.cs
+E:\C#\Skilvul - Tugas\Tugas - Simple Calculator App\obj\Release\net7.0\Tugas - Simple Calculator App.csproj.CoreCompileInputs.cache
+E:\C#\Skilvul - Tugas\Tugas - Simple Calculator App\obj\Release\net7.0\Tugas - Simple Calculator App.dll
+E:\C#\Skilvul - Tugas\Tugas - Simple Calculator App\obj\Release\net7.0\refint\Tugas - Simple Calculator App.dll
+E:\C#\Skilvul - Tugas\Tugas - Simple Calculator App\obj\Release\net7.0\Tugas - Simple Calculator App.pdb
+E:\C#\Skilvul - Tugas\Tugas - Simple Calculator App\obj\Release\net7.0\Tugas - Simple Calculator App.genruntimeconfig.cache
+E:\C#\Skilvul - Tugas\Tugas - Simple Calculator App\obj\Release\net7.0\ref\Tugas - Simple Calculator App.dll
